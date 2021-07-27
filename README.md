@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ShubhamShirsekar
 - 👀 I’m interested in building projects that would help the environment and have a positive impact on the society
-- 🌱 I’m currently learning python, R, Julia, C++, Java
-- 💞️ I’m looking to collaborate on social networking platforms, electronics projects.
+- 🌱 I’m currently learning Python, R, Julia, C, C++, Java, Web development
+- 💞️ I’m looking to collaborate on electronics projects.
 - 📫 How to reach me connect on LinkedIn - https://www.linkedin.com/in/shubhamshirsekar21/
 
 <!---
